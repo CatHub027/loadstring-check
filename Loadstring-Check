@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/Auto-Parry-Blade-Ball-Cat-Hub/main/Cat-Hub-Blade-Ball-Script.lua")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/Auto-Parry-Blade-Ball-Cat-Hub/main/Cat-Hub-Blade-Ball-Script.lua"))()
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/CatHubScript/main/CatHubscript.lua"))()
