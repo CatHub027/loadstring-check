@@ -8,3 +8,5 @@ loadstring(game:HttpGet("https://scriptblox.com/raw/UPD-Blade-Ball-op-autoparry-
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/Cat-Hub-Executor/main/Executor.lua"))()
