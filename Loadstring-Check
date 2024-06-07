@@ -11,3 +11,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/ma
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/Cat-Hub-Executor/main/Executor.lua"))()
+
+
+https://raw.githubusercontent.com/CatHub027/CatHubTrollyeet/main/CatHubTrollyeet
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/CatHubTrollyeet/main/CatHubTrollyeet"))()
