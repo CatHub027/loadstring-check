@@ -10,4 +10,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/Cat-Hub-Exe
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CatHub027/CatHubTrollyeet/main/CatHubTrollyeet"))()
 
-loadstring(gameHttpGet:("https://github.com/CatHub027/Cat-Hub-Executor/raw/main/UNC.lua"))()
+loadstring(gameHttpGet:("https://raw.githubusercontent.com/CatHub027/Cat-Hub-Executor/main/UNC.lua"))()
